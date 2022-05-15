@@ -7,6 +7,8 @@ public class GitTest {
 		
 		//This change is from remote repository.
 		//got it
+		// I am good how are you doing.
+		// I love practicing with GitHub
 	
 	}
 }
